@@ -1,0 +1,1 @@
+Rolling update - pods get taken down one by one once the updated ones are back up
